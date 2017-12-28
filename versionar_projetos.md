@@ -4,7 +4,7 @@ Verificar se já existem chaves SSH criadas, para verificar entrar no diretório
 os arquivos **id_rsa** e **id_rsa.pub**.<br>
 Se não existirem deve-se gerar as chaves.
 
-Gerar chaves SSH: <br>
+Comando para gerar chaves SSH: <br>
 **ssh-keygen**
 
 Enviar chave pública (**id_rsa.pub**) para ser adicionada no servidor onde está hospedado o repositório git.
